@@ -1,16 +1,3 @@
 {
-  "blacklisted": [
-    "3878016204",
-    "38780162048",
-    {
-      "id": "4287182471",
-      "reason": "Being",
-      "duration": "naughty"
-    },
-    {
-      "id": "1487174182",
-      "reason": "Being super super naughty",
-      "duration": "7d"
-    }
-  ]
+  "blacklisted": []
 }
