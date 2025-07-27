@@ -1,9 +1,3 @@
 {
-  "blacklisted": [
-    {
-      "id": "1238941982841",
-      "reason": "test",
-      "duration": "49d"
-    }
-  ]
+  "blacklisted": []
 }
