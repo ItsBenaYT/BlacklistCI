@@ -1,3 +1,9 @@
 {
-  "blacklisted": []
+  "blacklisted": [
+    {
+      "id": "19471782471",
+      "reason": "Being naughty",
+      "duration": "7d"
+    }
+  ]
 }
